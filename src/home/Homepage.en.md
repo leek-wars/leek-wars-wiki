@@ -1,5 +1,3 @@
-# Tutorial sur la map
-
 {{Chemin|Tutoriels|Notions et stratégies}}
 
 Vous aurez rapidement envie de parcourir la map de [[Leek Wars]] par vos propres moyens. Mais pour cela, il faut comprendre comment elle fonctionne.
