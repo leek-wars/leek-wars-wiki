@@ -34,7 +34,7 @@ Vos poireaux gagnent des [[Points de Capital]] lorsqu'il gagne un niveau. Heureu
 Rendez-vous sur la page de votre [[Poireau]], il s'agit du premier onglet de la barre de navigation, celui qui porte le nom de votre [[Poireau]].
 Vous y trouverez diverses informations, mais celles qui nous intéressent sont celles-ci :
 
-![Niveau 1 points](/wiki/niveau1points.png)
+![Niveau 1 points](/image/niveau1points.png)
 
 Votre poireau étant niveau 1, je vous conseille fortement de distribuer ces points dans la [[Vie]] [[Fichier:statsLife.png|16px|link=Caractéristiques#La Vie]] et la [[Force]] [[Fichier:statsStrength.png|16px|link=Caractéristiques#La Force]]. Les autres caractéristiques nécessitent des [[Puces]] que vous n'avez pas encore débloqué pour pouvoir être utiles. La [[Vie]] augmente simplement les points de vie de votre poireau, utile pour ne pas mourir trop vite. Et la [[Force]] permet d'infliger plus de dégâts avec vos [[Armes]] et vos [[Puces]] offensives.
 
@@ -92,7 +92,7 @@ Mais vous n'irez pas bien loin avec ce code ! Car celui-ci n'est qu'un modèle, 
 
 A la première instruction, vous équipez l'arme [[WEAPON_PISTOL]]. Regardez bien sa fiche (Disponible au [[Marché]]) :
 
-![Niveau 1 points](/wiki/armepistol.png)
+![Niveau 1 points](/image/armepistol.png)
 
 Le symbole de l'étoile http://leekwars.com/static//image/icon_tp.png indique le coût en [[PT]] de l'utilisation de cette arme.
 
@@ -138,7 +138,7 @@ Sélectionnez un poireau parmi les 5 proposés pour l'affronter. Vous gagnez de 
 
 Lors de votre premier jour, vous pouvez faire jusqu'à 50 combats. Les autres jours, vous ne pourrez en faire que 30. Si vous ne faites pas tous vos combats quotidiens, sachez qu'ils sont reportés sur un jour. Ainsi, si la veille il vous restait 10 combats à faire, vous en aurez 40 aujourd'hui. Si vous ne les faites pas, vous en aurez 60 le lendemain (les 10 d'hier seront perdus).
 
-![Niveau 1 points](/wiki/potagerniveau1.png)
+![Niveau 1 points](/image/potagerniveau1.png)
 
 ## Conclusion
 
