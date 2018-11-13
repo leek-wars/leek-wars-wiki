@@ -34,7 +34,7 @@ Vos poireaux gagnent des [[Points de Capital]] lorsqu'il gagne un niveau. Heureu
 Rendez-vous sur la page de votre [[Poireau]], il s'agit du premier onglet de la barre de navigation, celui qui porte le nom de votre [[Poireau]].
 Vous y trouverez diverses informations, mais celles qui nous intéressent sont celles-ci :
 
-![Niveau 1 points](/wiki/Niveau1points.png)
+![Niveau 1 points](/wiki/niveau1points.png)
 
 Votre poireau étant niveau 1, je vous conseille fortement de distribuer ces points dans la [[Vie]] [[Fichier:statsLife.png|16px|link=Caractéristiques#La Vie]] et la [[Force]] [[Fichier:statsStrength.png|16px|link=Caractéristiques#La Force]]. Les autres caractéristiques nécessitent des [[Puces]] que vous n'avez pas encore débloqué pour pouvoir être utiles. La [[Vie]] augmente simplement les points de vie de votre poireau, utile pour ne pas mourir trop vite. Et la [[Force]] permet d'infliger plus de dégâts avec vos [[Armes]] et vos [[Puces]] offensives.
 
